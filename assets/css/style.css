@@ -1,0 +1,135 @@
+.game {
+    width: 100%;
+    font-size: 14px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+body {
+    background-image: url('https://classroomclipart.com/images/gallery/Clipart/Pirates/treasure-chest-full-of-money-clipart-516.jpg');
+    width: 100%;
+    margin: auto;
+    font-size: 14px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    position: static;
+    color: rgb(175, 245, 175);
+}         
+
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:visited,
+.btn-primary:focus {
+    background-color: #3f4140;
+    border-color: #05FEEE;
+}
+
+.container-fluid{
+    border-color: navy;
+    border-style: solid;
+    background-color: blue;
+    color: #ffffff
+}
+
+.col-md-6{
+    border-style: solid;
+    border-color: #353533;
+    background-color: #ffffff;
+    color: #777777;
+    margin-left: 30px;
+    padding-bottom: 25px;
+}
+
+.col-md-3{
+    border-style: solid;
+    border-color: #dddddd;
+    background-color: #ffffff;
+    color: #777777;
+    margin-left: 30px;
+    padding-bottom: 25px;
+} 
+
+.col-md-3{
+    border-style: solid;
+    border-color: #353533;
+    background-color: #05FEEE;
+    color: #777777;
+    margin-left: 30px;
+    padding-bottom: 25px;
+    height: 118px;
+    width: 150px;
+}
+
+.col-md-4{
+    border-style: solid;
+    border-color: #0dcadb;
+    background-color: #1cc8a3;
+    color: #000000;
+    margin-left: 30px;
+    padding-bottom: 40px;
+    padding-top: 20px;
+}
+
+.col-md-2{
+    border-style: solid;
+    border-color: #353533;
+    background-color: #05FEEE;
+    color: #777777;
+    margin-left: 150px;
+    padding-bottom: 40px;
+    padding-top: 20px;
+    width: 115px;
+    height: 118px;
+    margin-top: -84px;
+    font-size: 18px;
+}
+
+.col-md-5{
+    border-style: solid;
+    border-color: #353533;
+    background-color: #05FEEE;
+    color: #777777;
+    margin-left: 30px;
+    padding-bottom: 25px;
+    height: 185px;
+    width: 210px;
+}
+
+.panel-body{
+    border-style: solid;
+    border-color: black;
+    background-color: black;
+    color: black;
+    height: 175px;
+    width: 575px;
+    margin-top: 45px;
+    margin-bottom: 10px;
+}
+
+.score{
+    border-style: solid;
+    border-color: #353533;
+    background-color: #05FEEE;
+    color: #777777;
+    margin-left: 15px;
+    padding-bottom: 25px;
+    height: 150px;
+    width: 200px;
+    margin-top: 125px;
+}
+
+#randomNumGenerator{
+    font-size: 50px;
+}
+
+#totalScore{
+    font-size: 50px;
+    color: #777777;
+}
+
+#win-count{
+    font-size: 12px;
+}
+
+#loss-count{
+    font-size: 12px;
+}
